@@ -1,1 +1,2 @@
 # PythonMethodsCollecting
+ДЗ №5
